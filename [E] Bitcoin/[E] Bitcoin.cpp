@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//1 Detik/Test Case dan Max: 64mb
+
 // int main(){
 // 	int N;
 // 	std::cin>>N;
