@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//1 Detik/Test Case dan Max: 64mb
+//0.2 Detik/Test Case dan Max: 16mb
 
 int main(){
     //tc = test case
